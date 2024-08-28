@@ -28,10 +28,12 @@
 		"prettier-plugin-svelte": "^3.1.2",
 		"svelte": "^4.2.7",
 		"svelte-check": "^3.6.0",
+		"testcontainers": "^10.12.0",
 		"typescript": "^5.0.0",
 		"typescript-eslint": "^8.0.0",
 		"vite": "^5.0.3",
-		"vitest": "^2.0.0"
+		"vitest": "^2.0.0",
+		"wiremock-captain": "^3.3.1"
 	},
 	"type": "module",
 	"dependencies": {
